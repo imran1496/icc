@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:456
+#EXTINF:5,
+http://10.16.100.203:8082/bangla/banglatv_hd-00000456.ts
+#EXTINF:5,
+http://10.16.100.203:8082/bangla/banglatv_hd-00000457.ts
+#EXTINF:5,
+http://10.16.100.203:8082/bangla/banglatv_hd-00000458.ts
+#EXTINF:5,
+http://10.16.100.203:8082/bangla/banglatv_hd-00000459.ts
